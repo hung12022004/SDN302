@@ -1,0 +1,17 @@
+{
+  "name": "lab01-nodejs",
+  "version": "1.0.0",
+ 
+  "description": "SDN302 Lab 01",
+  "main": "app.js",
+ "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.23"
+  }
+}

@@ -1,0 +1,4 @@
+[
+  { "id": 1, "title": "Node.js Basics", "category": "IT", "price": 20 },
+  { "id": 2, "title": "Mastering Express", "category": "IT", "price": 25 }
+]
